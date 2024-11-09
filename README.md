@@ -1,10 +1,10 @@
-# Spotify Top Tracks 2023: Exploratory Data Analysis
+# Spotify Top Tracks 2023: An Exploratory Data Analysis
 
 **Author:** Andrei Joshua A. Rodriguez | **Class:** 2ECE-C
 
 ## Overview
 
-Welcome to a deep dive into the world of Spotify’s top tracks of 2023! As a dedicated Spotify music fan, this notebook was developed to capture the trends, characteristics, and patterns that made certain songs stand out in the streaming world this year. By examining data such as streaming counts, artist popularity, and song characteristics like danceability and energy, this analysis reveals the factors that drive songs to the top of the charts and keep listeners coming back. We explore everything from yearly release trends to the influence of tempo and mood, aiming to understand what makes a track truly popular in today’s music landscape. 
+Welcome to a deep dive into the world of Spotify’s top tracks of 2023! As a dedicated Spotify music fan, this notebook was developed to capture the trends, characteristics, and patterns that made certain songs stand out in the streaming world this year. By examining data such as streaming counts, artist popularity, and song characteristics like danceability and energy, this analysis reveals the factors that drive songs to the top of the charts and keep listeners coming back. We explore everything from yearly release trends to the influence of tempo and mood, aiming to understand what makes a track truly popular in today’s music landscape.
 
 The analysis in this notebook brings together visuals, correlations, and in-depth feature analysis that collectively tell the story of 2023’s streaming favorites. Whether you're curious about which month sees the most releases or which musical elements most impact streaming numbers, this analysis uncovers insights for anyone fascinated by music trends.
 
@@ -87,3 +87,10 @@ Moreover, by comparing playlist and chart appearances across platforms, we gain 
 
 Thanks for diving into Spotify’s top 2023 tracks with me—hope you find as much joy in the data as I did!
 
+---
+
+## Version History
+
+1. **Initial Upload**: Uploaded the Spotify EDA notebook and dataset.
+2. **Readme Addition**: Added a README file for project overview and analysis.
+3. **Readme Update**: Updated the README with grammar corrections and enhanced explanations.
